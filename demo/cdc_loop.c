@@ -13,6 +13,13 @@
  * limitations under the License.
  */
 
+/******************************************************
+ * @brief      LED RGB线程
+ * @param[in]  argument
+ * @retval     无
+ * @attention  无
+ *
+ *******************************************************/
 #include <stdint.h>
 #include <stdbool.h>
 #include <string.h>
